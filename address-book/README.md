@@ -63,16 +63,12 @@ Now pull up your application at ```http://localhost:8000/```.
 I used Bootstrap Tweeter as a design framework. You should see something like this:
 
 Index page
-
-![Screentshot](https://github.com/szymon33/address-book-angular/blob/master/doc/index.png)
-
-Edit contact page (with error validation)
-
-![Screentshot](https://github.com/szymon33/address-book-angular/blob/master/doc/form.png)
-
+![image](https://github.com/user-attachments/assets/5eb791e1-51e1-4829-be55-2cba0e82e7fa)
+Add contact page
+![image](https://github.com/user-attachments/assets/a12f2630-ed2f-4ae4-bdf5-d8d66f0f5ad8)
 About page
+![image](https://github.com/user-attachments/assets/9a2b7d7a-b73b-451a-8e97-0fcad47b1360)
 
-![Screentshot](https://github.com/szymon33/address-book-angular/blob/master/doc/about.png)
 
 ## Miscaleus
 
