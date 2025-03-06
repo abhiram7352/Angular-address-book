@@ -1,7 +1,7 @@
 # Challenge
 
 ## Client Side Address Book
-Build a single page address book application using JavaScript, HTML and CSS.
+Build a single page address book application.
 
 ### Functionality
 1. You should be able to add, delete and edit contacts.
@@ -37,7 +37,6 @@ To get you started you can simply clone the address-book-angular repo and instal
 
 ## Install Dependencies
 
-You will need node.js installed to run this sample app, I recommend [Node Version Manager](https://github.com/creationix/nvm). Check out the repo for installation directions: [nvm github](https://github.com/creationix/nvm)
 
 * Install the server side node libraries we depend upon via ```npm```, the [node package manager](https://www.npmjs.org/).
 
